@@ -60,12 +60,6 @@ class SimpleDiffusionModel(nn.Module):
 
 ```
 
-## 💻 Code Block 6
-
-```python
-
-```
-
 ## 📝 Section 7: ## Prepare Dataset (MNIST)
 
 ## Prepare Dataset (MNIST)
@@ -101,12 +95,6 @@ def add_noise(images, noise_level=0.5):
 ## 📝 Section 11: ## Train the Diffusion Model
 
 ## Train the Diffusion Model
-
-## 💻 Code Block 12
-
-```python
-
-```
 
 ## 💻 Code Block 13
 
@@ -177,9 +165,5 @@ plt.show()
 #### Generated new images by reversing the noise process.
 
 
-## 💻 Code Block 17
 
-```python
-
-```
 
